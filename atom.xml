@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>doGinkr&#39;s Blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-02-02T05:43:37.019Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>doGinkr</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/02/01/hello-world/"/>
+    <id>http://example.com/2022/02/01/hello-world/</id>
+    <published>2022-02-01T14:17:17.519Z</published>
+    <updated>2022-02-02T05:43:37.019Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <strong>doGinkr’s Blog</strong>!</p><p>doGinkr says: </p><blockquote><p>Hello, world!</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;strong&gt;doGinkr’s Blog&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;doGinkr says: &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hello, world!&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
