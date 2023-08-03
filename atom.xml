@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-07-19T11:18:17.980Z</updated>
+  <updated>2023-08-03T07:18:03.213Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>【IFMOT】IFMO题型简析</title>
-    <link href="http://example.com/2023/07/19/%E3%80%90IFMOT%E3%80%91IFMO%E9%A2%98%E5%9E%8B%E7%AE%80%E6%9E%90/"/>
-    <id>http://example.com/2023/07/19/%E3%80%90IFMOT%E3%80%91IFMO%E9%A2%98%E5%9E%8B%E7%AE%80%E6%9E%90/</id>
-    <published>2023-07-19T11:18:17.000Z</published>
-    <updated>2023-07-19T11:18:17.980Z</updated>
+    <title>【IFMOT】答题与评分</title>
+    <link href="http://example.com/2023/08/03/%E3%80%90IFMOT%E3%80%91%E7%AD%94%E9%A2%98%E4%B8%8E%E8%AF%84%E5%88%86/"/>
+    <id>http://example.com/2023/08/03/%E3%80%90IFMOT%E3%80%91%E7%AD%94%E9%A2%98%E4%B8%8E%E8%AF%84%E5%88%86/</id>
+    <published>2023-08-03T07:18:03.000Z</published>
+    <updated>2023-08-03T07:18:03.213Z</updated>
     
     
     
@@ -30,19 +30,49 @@
   </entry>
   
   <entry>
+    <title>【IFMOT】IFMO题型简析</title>
+    <link href="http://example.com/2023/07/19/%E3%80%90IFMOT%E3%80%91IFMO%E9%A2%98%E5%9E%8B%E7%AE%80%E6%9E%90/"/>
+    <id>http://example.com/2023/07/19/%E3%80%90IFMOT%E3%80%91IFMO%E9%A2%98%E5%9E%8B%E7%AE%80%E6%9E%90/</id>
+    <published>2023-07-19T11:18:17.000Z</published>
+    <updated>2023-08-03T07:54:16.993Z</updated>
+    
+    <content type="html"><![CDATA[<p>在IFMO赛场上，不仅有求证、求值题，还有更多变形题型。本文只是一个“简析”啊，只阐述常见的几种题型。</p><h1 id="自由搏击">自由搏击</h1><p>包括<strong>求证</strong>、<strong>求值</strong>。我们之前看到的都是这类题目。可以随心所欲地引用、熟知。</p><h1 id="限制级">限制级</h1><p>题面上增加了“限制：”字样，对引用和熟知进行限制，解题者只能用且必须用到冒号后的各项内容，每两项之间用小黑子“.”隔开。“{xxx}”表示xxx领域的知识均可使用。</p><p>别忘了，万能约分特有的公理和定理并不被限制。</p><hr><p>例1 限制：欧姆定律. {生物学}</p><p>求证：发生了基因突变</p><p>本题不能使用除欧姆定律之外的所有物理知识。也不能只用生物学知识，不出现欧姆定律。</p><p>证明：在U=IR中，U是尿嘧啶，=是两条氢键，I是次黄嘌呤，R是RNA。U=IR是翻译过程，左边mRNA，右边tRNA。所以DNA反义链上的碱基是A，有义链上是T</p><p>另外，IR合在一起是某个未知碱基的符号。U=IR，所以T=IR。</p><p>将T=IR的配对代入DNA，基因片段上A变成IR，发生了基因突变。</p><p>“限制”之后，总会引起许多不严谨的地方，但是不一定值得斟酌，不必太过在意。</p><h1 id="附加信息题">附加信息题</h1><blockquote><p>有的题目就是太巧了，我们我讲实话有的时候不一定能想到，dua。 —— 怀特先生</p></blockquote><p>如果你读了<strong>万能约分的价值</strong>，你一定知道，约分问题的出题人不想难为你，他们想带你一起探索你从未发现的东西。可是有些东西就是太巧了，很难注意到。在万能约分的早期发展中，出题者与解题者答题过程的平均重合率仅有5.14%。</p><p>附加信息题出现的目的就是更好地引领解题者。字样“附加信息：”之后就是附加信息。另外，在印刷中可以用 <em>斜体字</em> 标出，在手写中可以用波浪线划出。知识不受限制，但是附加的信息必须在答题过程中体现出来，不论以何种方式。</p><hr><p>例2 请 <em>尽量</em> 求证：U=1</p><p>证明：<a href="https://imgse.com/i/pPi0iZV"><img src="https://s1.ax1x.com/2023/08/03/pPi0iZV.png" alt="pPi0iZV.png"></a></p><p>如果没有附加信息，你能想到用“尽量”两个字解决问题吗？你会不会深入考察“尽”的形状？会不会尝试把“量”中间的长横当作分数线？</p><p>附加信息不仅可以是文字，还可以是图片，甚至音频，变化多端。</p><h1 id="交互题">交互题</h1><p>处在同一赛场上的选手，不再是不相往来，而是真正有了竞技的味道。</p><p>具体的，请期待下一届IFMO。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在IFMO赛场上，不仅有求证、求值题，还有更多变形题型。本文只是一个“简析”啊，只阐述常见的几种题型。&lt;/p&gt;
+&lt;h1 id=&quot;自由搏击&quot;&gt;自由搏击&lt;/h1&gt;
+&lt;p&gt;包括&lt;strong&gt;求证&lt;/strong&gt;、&lt;strong&gt;求值&lt;/strong&gt;。我们之前看到的都是这类题</summary>
+      
+    
+    
+    
+    <category term="IFMOT" scheme="http://example.com/categories/IFMOT/"/>
+    
+    
+    <category term="IFMO" scheme="http://example.com/tags/IFMO/"/>
+    
+    <category term="IFMOT" scheme="http://example.com/tags/IFMOT/"/>
+    
+    <category term="万能约分" scheme="http://example.com/tags/%E4%B8%87%E8%83%BD%E7%BA%A6%E5%88%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【IFMOT】万能约分基本理论入门</title>
     <link href="http://example.com/2023/07/19/%E3%80%90IFMOT%E3%80%91%E4%B8%87%E8%83%BD%E7%BA%A6%E5%88%86%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA%E5%85%A5%E9%97%A8/"/>
     <id>http://example.com/2023/07/19/%E3%80%90IFMOT%E3%80%91%E4%B8%87%E8%83%BD%E7%BA%A6%E5%88%86%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA%E5%85%A5%E9%97%A8/</id>
     <published>2023-07-19T11:17:26.000Z</published>
-    <updated>2023-08-02T12:32:26.933Z</updated>
+    <updated>2023-08-03T07:54:17.984Z</updated>
     
-    <content type="html"><![CDATA[<p>求证：1+2+3=水.</p><p>你一定听说过类似的问题。它们看似荒谬搞笑，但实际上蕴含大智慧。著名的众生平等教的不愿透露姓名的教主早期创立过“万能约分教”，后来被学者发展为“<strong>万能约分理论</strong>”，用来解决各类问题，上面的证明题就是一个例子。</p><p>万，万物。能，可以。约，大约而相同（公理1）。分，分割，拆解，当然也就有合并。阅读本文，你便能理解“万能约分”的内涵。</p><h1 id="知识的来源"><a class="markdownIt-Anchor" href="#知识的来源"></a> 知识的来源</h1><p>人的起点是婴儿。婴儿不具备知识，只有对世界的感觉。万能约分理论并不基于特定的领域（只是经常以数学形式呈现），所以解题者总是被认定为一个婴儿，没有知识。纸面上的文字对他们来说也只是毫无意义的<strong>涂鸦</strong>笔画。</p><p>为了使用知识，需要<strong>引用</strong>与<strong>熟知</strong>。引用是指使用有结实文字依据的知识，比如引用数学知识在解题中十分常用。引用是绝对的，任何人都可以明确了解到你引用的内容。可以通过熟知使用的知识，要么是社会生活常识，要么符合一般人的思维，要么是改卷者与你的共识等，比如“法国国旗是蓝白红条纹”“我们的班主任是XXX”。熟知有相对性，使用时要确保批改你的答卷的人可以知道这个知识。如果改卷人是来自奥尔尼亚囯的异乡人，那么他一定不会知道你的班主任是谁。</p><h1 id="借代公理"><a class="markdownIt-Anchor" href="#借代公理"></a> 借代公理</h1><p><strong>具有强烈相关性的东西互相等同</strong>。</p><p>“强烈相关性”包括长相相像、发音相似……但它不同于相似性。某人与其身份证号被强烈关联起来，所以二者也可以被等同。</p><h1 id="约分定理"><a class="markdownIt-Anchor" href="#约分定理"></a> 约分定理</h1><p>由借代公理，可以导出一个结论。<strong>涂鸦被进行图像编辑后与原来等同</strong>。</p><p>可以对涂鸦或其中的一部分进行平移、旋转、缩放等变换。</p><hr /><p>例1 求证：6=水</p><p>证明：<a href="https://imgse.com/i/pPPI1QP"><img src="https://s1.ax1x.com/2023/08/02/pPPI1QP.png" alt="pPPI1QP.png" /></a></p><p>6原本是涂鸦，在识字人的双眼下变为阿拉伯数字，进而可以被拆为2+1+3，这简单的一步一般被我们忽略。第二个等号赋予了“+”号“合起来写”的内涵。这没有依据，但是被常人接受，可以归为熟知。第三个等号通过长相的类似进行转化，使用了借代公理。</p><hr /><p>例2 求证：heyuchen参加了新宝岛表演</p><p>证明：heyuchen = <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>+</mo><mo>×</mo></mrow><annotation encoding="application/x-tex">+\times</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">+</span><span class="mord">×</span></span></span></span>. 证毕.</p><p>这一证明使用了借代公理，读音相同而等同。</p><h1 id="和而不同公理"><a class="markdownIt-Anchor" href="#和而不同公理"></a> 和而不同公理</h1><p><strong>没有互相矛盾的命题</strong>。</p><p>“甲是男的”可以为真，也可以既为真也为假。“甲是男的”与“甲是女的”可以同时成立，“没有互相矛盾的命题”和“有两个命题互相矛盾”也可以同时成立，哈哈，所以你也可以说“甲是男的”和“甲是女的”互相矛盾……逻辑的伦理在这里似乎混乱不清。</p><p>这并不意味着我们所做的证明、求值是毫无意义的。某个命题可以为真，但需要证明。解决万能约分问题，就是把一个命题为真或者为假的可能性切实实现出来。</p><p>有鉴于此，反证法一般不被鼓励。</p><hr /><p>例3 求值：成为一个不邪恶的正义之人所需的时间</p><p>正义之人不就是不邪恶的吗？如果你这么想，说明你还没有完全理解和而不同公理。在解题过程中，必须涉及到“不邪恶”和“正义”两个方面，否则不够严谨。当然，我们对“严谨”的要求不总是那么苛刻，对“人”“时间”等细节进行讨论的锱铢必较的精神显得没什么必要。</p><p>解：<a href="https://imgse.com/i/pC7NILF"><img src="https://s1.ax1x.com/2023/07/19/pC7NILF.png" alt="pC7NILF.png" /></a></p><hr /><p>例4 求证：1 &lt; 1</p><p>引用代数知识，可证明<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn><mo>≥</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">1\geq 1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.78041em;vertical-align:-0.13597em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≥</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span>，但这并不妨碍我们在本题中证明1 &lt; 1. 何况，别忘了1 &lt; 1是纸面上的涂鸦！</p><p>证明：即 | ∠ | . 引用平面几何中的“角平分线”（主谓宾）可知命题成立. 证毕.</p><p>类似地，还可以把“山”拆成 | ⊥ |，用“垂直平分线”证明“山”成立。</p><h1 id="式象与命题"><a class="markdownIt-Anchor" href="#式象与命题"></a> 式象与命题</h1><p>现在我们见过了<strong>求值题</strong>与<strong>证明题</strong>。证明题要证明一个<strong>命题</strong>为真，求值题把把一个<strong>式象</strong>转化为另一个很有意义的式象（你也可以说“可是，XX就是XX啊！”，如果你不想拿高分）。“式象”一词是万能约分理论独有，当你说出这两个字，人们就知道你是约分家。</p><p>你可能会对上文中 “证明：山” 产生疑惑：“山”，一个单独的汉字，是命题吗？怎么能证明呢？</p><p>依旧要提醒，“山”是一个涂鸦，因为放在“证明：”后面而变成一个命题。在 “求值：山” 中，山就是一个式象。</p><h1 id="语词与内涵"><a class="markdownIt-Anchor" href="#语词与内涵"></a> 语词与内涵</h1><p>式象与命题的辨析容易出错。还有一个更难理解的，就是<strong>语词</strong>与<strong>内涵</strong>的辨析。</p><p>我讲实话，出题人真想把题意（内涵）用抽象脑电波的方式传达给你。但没办法，总是要借助文字（语词）。可是一旦使用文字，由于语词的多义性，常导致内涵模糊。而模糊的地方，正是考生们喜欢使用借代公理的地方。这很容易造成出题人不期待的偏差。于是，<strong>第一反应符号</strong><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">[</mo><mo stretchy="false">]</mo></mrow><annotation encoding="application/x-tex">[]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">[</span><span class="mclose">]</span></span></span></span>应运而生。括号中的内容只能被熟知，也就是用大多数人的第一反应解读其内涵。</p><p>假设有一道题，要求自己写出一个结论并证明。“求证：你写下的命题”。有些解题者对“你写下的命题”六个字进行转化。但如果把题目写成 “求证：<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">[</mo></mrow><annotation encoding="application/x-tex">[</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">[</span></span></span></span>你写下的命题<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">]</mo></mrow><annotation encoding="application/x-tex">]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mclose">]</span></span></span></span>”，结合上下文语境，保证解题者与出题者达成共识。</p><p>在禁用中文知识的一些题目中，依旧可以用中文书写过程，毕竟使用中文是不可避免的。过程中的语词一般被直接当作内涵。但你依旧步可以使用中文的专业知识、汉字的形状特性等。深刻理解语词与内涵的区别与练习，尽量避免解题时关键步骤错误。</p><h1 id="万能约分的价值"><a class="markdownIt-Anchor" href="#万能约分的价值"></a> 万能约分的价值</h1><p>让我们聚焦于万能约分问题，或者说谜题，也许也可以称之为puzzle。</p><p>万能约分理论不是自然科学，而是人为搭起的框架。这个理论就是为了出题而生。由于其宽松的规则，比起答案唯一的Sudoku，约分题更像是自由度极高的Besiege，不论是证明题还是求值题，都可以有千奇百怪的解答。约分题或许因此困难：解题者要不断追求优秀的解答。由于解法过多，人们通常找到较简短的解答，因此不会感到Ginkr向每个路人一一解释自己是练过的的疲惫，也不会有游玩黑魂后的怅然慨叹。相反，约分题注重向解题者揭露有趣的事实，给人智慧的启迪。</p><blockquote><p>You want to communicate to them an actual substance of something. - Jonathan Blow</p></blockquote><p>这里点名表扬“无穷小量”出的一道题。</p><p>例5 求证： fengrui想喝水=大吊</p><p>证明： fengrui想喝水=大帝想喝水=大帝渴=大吊.</p><p>这是一道简约的小题，难度不高，却让人回味良久：原来可以利用fengrui的不确定性；“想喝水”到“渴”的转化，原来还可以这样；帝渴，吊，这真是太有趣了，而且“大”也起了作用！解题者并不是仅仅感叹自己聪明、有毅力，更是对客观的东西发出赞叹，“我怎么未曾注意到呢？”</p><p>万能约分就是这样引导人们发现生活中的巧合，重新认识世界。也许这就是为什么世界人民如此热衷于万能约分。</p>]]></content>
+    <content type="html"><![CDATA[<p>求证：6=水.</p><p>你一定听说过类似的问题。它们看似荒谬搞笑，但实际上蕴含大智慧。著名的众生平等教的不愿透露姓名的教主早期创立过“万能约分教”，后来被学者发展为“<strong>万能约分理论</strong>”，用来解决各类问题，上面的求证题就是一个例子。</p><p>万，万物。能，可以。约，大约而相同。分，分割，拆解，也有合并。阅读本文，你便能理解“万能约分”的内涵。</p><h1 id="知识的来源">知识的来源</h1><p>人的起点是婴儿。婴儿不具备知识，只有对世界的感觉。万能约分理论并不基于特定的领域（只是经常以数学形式呈现），所以解题者总是被认定为一个婴儿，没有知识。纸面上的文字对他们来说也只是毫无意义的<strong>涂鸦</strong>笔画。</p><p>为了使用知识，需要<strong>引用</strong>与<strong>熟知</strong>。引用是指使用有结实文字依据的知识，比如引用数学知识在解题中十分常用。引用是绝对的，任何人都可以明确了解到你引用的内容。可以通过熟知使用的知识，要么是社会生活常识，要么符合一般人的思维，要么是改卷者与你的共识等，比如“法国国旗是蓝白红条纹”“我们的班主任是XXX”。熟知有相对性，使用时要确保批改你的答卷的人可以知道这个知识。如果改卷人是来自奥尔尼亚囯的异乡人，那么他一定不会知道你的班主任是谁。</p><h1 id="借代公理">借代公理</h1><p><strong>具有强烈相关性的东西互相等同</strong>。</p><p>“强烈相关性”包括长相相像、发音相似……但它不同于相似性。某人与其身份证号被强烈关联起来，所以二者也可以被等同。</p><h1 id="约分定理">约分定理</h1><p>由借代公理，可以导出一个结论。<strong>涂鸦被进行图像编辑后与原来等同</strong>。</p><p>可以对涂鸦或其中的一部分进行平移、旋转、缩放等变换。</p><hr><p>例1 求证：6=水</p><p>证明：<a href="https://imgse.com/i/pPPI1QP"><img src="https://s1.ax1x.com/2023/08/02/pPPI1QP.png" alt="pPPI1QP.png"></a></p><p>6原本是涂鸦，在识字人的双眼下变为阿拉伯数字，进而可以被拆为2+1+3，这简单的一步一般被我们忽略。第二个等号赋予了“+”号“合起来写”的内涵。这没有依据，但是被常人接受，可以归为熟知。第三个等号通过长相的类似进行转化，使用了借代公理。</p><hr><p>例2 求证：heyuchen参加了新宝岛表演</p><p>证明：<br>heyuchen = <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>+</mo><mo>×</mo></mrow><annotation encoding="application/x-tex">+\times</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">+</span><span class="mord">×</span></span></span></span>. 证毕.</p><p>这一证明使用了借代公理，读音相同而等同。</p><h1 id="和而不同公理">和而不同公理</h1><p><strong>没有互相矛盾的命题</strong>。</p><p>“甲是男的”可以为真，也可以既为真也为假。“甲是男的”与“甲是女的”可以同时成立，“没有互相矛盾的命题”和“有两个命题互相矛盾”也可以同时成立，哈哈，所以你也可以说“甲是男的”和“甲是女的”互相矛盾……逻辑的伦理在这里似乎混乱不清。</p><p>这并不意味着我们所做的证明、求值是毫无意义的。某个命题可以为真，但需要证明。解决万能约分问题，就是把一个命题为真或者为假的可能性切实实现出来。</p><p>鉴于此，反证法一般不被鼓励。</p><hr><p>例3 求值：成为一个不邪恶的正义之人所需的时间</p><p>正义之人不就是不邪恶的吗？如果你这么想，说明你还没有完全理解和而不同公理。在解题过程中，必须涉及到“不邪恶”和“正义”两个方面，否则不够严谨。当然，我们对“严谨”的要求不总是那么苛刻，对“人”“时间”等细节进行讨论的锱铢必较的精神显得没什么必要。</p><p>解：<a href="https://imgse.com/i/pC7NILF"><img src="https://s1.ax1x.com/2023/07/19/pC7NILF.png" alt="pC7NILF.png"></a></p><hr><p>例4 求证：1 &lt; 1</p><p>引用代数知识，可证明<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn><mo>≥</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">1\geq 1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.78041em;vertical-align:-0.13597em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≥</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span>，但这并不妨碍我们在本题中证明1 &lt; 1. 何况，别忘了1 &lt; 1是纸面上的涂鸦！</p><p>证明：即 | ∠ | . 引用平面几何中的“角平分线”（主谓宾）可知命题成立. 证毕.</p><p>类似地，还可以把“山”拆成 | ⊥ |，用“垂直平分线”证明“山”成立。</p><h1 id="式象与命题">式象与命题</h1><p>现在我们见过了<strong>求值题</strong>与<strong>求证题</strong>。求证题要证明一个<strong>命题</strong>为真，求值题把把一个<strong>式象</strong>转化为另一个很有意义的式象（你也可以说“可是，XX就是XX啊！”，如果你不想拿高分）。“式象”一词是万能约分理论独有，当你说出这两个字，人们就知道你是约分家。</p><p>你可能会对上文中 “证明：山” 产生疑惑：“山”，一个单独的汉字，是命题吗？怎么能证明呢？</p><p>依旧要提醒，“山”是一个涂鸦，因为放在“证明：”后面而变成一个命题。在 “求值：山” 中，山就是一个式象。</p><h1 id="语词与内涵">语词与内涵</h1><p>式象与命题的辨析容易出错。还有一个更难理解的，就是<strong>语词</strong>与<strong>内涵</strong>的辨析。</p><p>我讲实话，出题人真想把题意（内涵）用抽象脑电波的方式传达给你。但没办法，总是要借助文字（语词）。可是一旦使用文字，由于语词的多义性，常导致内涵模糊。而模糊的地方，正是考生们喜欢使用借代公理的地方。这很容易造成出题人不期待的偏差。于是，<strong>取义符号</strong><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">[</mo><mo stretchy="false">]</mo></mrow><annotation encoding="application/x-tex">[]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">[</span><span class="mclose">]</span></span></span></span>应运而生。书写括号中的内容相当于直接书写内涵，不可进行语词层面的约分。</p><p>假设有一道题，要求自己写出一个结论并证明。“求证：你写下的命题”。有些解题者对“你写下的命题”六个字进行转化。但如果把题目写成 “求证：<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">[</mo></mrow><annotation encoding="application/x-tex">[</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">[</span></span></span></span>你写下的命题<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">]</mo></mrow><annotation encoding="application/x-tex">]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mclose">]</span></span></span></span>”，就可以保证解题者与出题者达成共识。</p><p>在禁用中文知识的一些题目中，依旧可以用中文书写过程，毕竟使用中文是不可避免的。过程中的语词一般被直接当作内涵。但依旧不可以使用中文的专业知识、汉字的形状特性等。</p><h1 id="万能约分的价值">万能约分的价值</h1><p>让我们聚焦于万能约分问题。</p><p>万能约分理论不是自然科学，而是人为搭起的框架。这个理论就是为了出题而生。由于其宽松的规则，比起答案唯一的Sudoku，约分题更像是自由度极高的Besiege，不论是求证题还是求值题，都可以有千奇百怪的解答。解题者要不断追求优秀的解答。由于解法过多，人们通常找到较简短的解答，因此不会感到Ginkr向每个路人一一解释自己是练过的的疲惫，也不会有游玩黑魂后的慨叹。约分题注重向解题者揭露有趣的事实，给人大脑的爽感。</p><blockquote><p>You want to communicate to them an actual substance of something. - Jonathan Blow</p></blockquote><p>这里点名表扬“无穷小量”出的一道题。</p><p>例5 求证： fengrui想喝水=大吊</p><p>证明： fengrui想喝水=大帝想喝水=大帝渴=大吊.</p><p>这是一道简约的小题，难度不高，却让人回味良久：原来可以利用fengrui的不确定性；“想喝水”到“渴”的转化，原来还可以这样；帝渴，吊，这真是太有趣了，而且“大”也起了作用！解题者并不是仅仅感叹自己聪明、有毅力，更是对客观的东西发出赞叹，“我怎么未曾注意到呢？”</p><p>万能约分问题解法不唯一，于是能呈现更多事实，引导人们发现生活中的巧合，重新认识世界。也许这就是为什么世界人民如此热衷于万能约分。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;求证：1+2+3=水.&lt;/p&gt;
-&lt;p&gt;你一定听说过类似的问题。它们看似荒谬搞笑，但实际上蕴含大智慧。著名的众生平等教的不愿透露姓名的教主早期创立过“万能约分教”，后来被学者发展为“&lt;strong&gt;万能约分理论&lt;/strong&gt;”，用来解决各类问题，上面的证明题就是一个例子。</summary>
+    <summary type="html">&lt;p&gt;求证：6=水.&lt;/p&gt;
+&lt;p&gt;你一定听说过类似的问题。它们看似荒谬搞笑，但实际上蕴含大智慧。著名的众生平等教的不愿透露姓名的教主早期创立过“万能约分教”，后来被学者发展为“&lt;strong&gt;万能约分理论&lt;/strong&gt;”，用来解决各类问题，上面的求证题就是一个例子。&lt;/p&gt;</summary>
       
     
     
@@ -93,13 +123,15 @@
     <published>2023-01-25T08:23:25.000Z</published>
     <updated>2023-01-25T08:35:24.712Z</updated>
     
-    <content type="html"><![CDATA[<p>11日革命<br>zcy</p><p>2020年11月23日14时45分，建洪初二(2)班“蓄谋已久”的革命成功啦！<br>此次革命的胜利离不开我们伟大的yzc领袖，y主席一直当着毫无实权的副班长;革命途中忍厚负重，卧薪尝胆。无论老师的态度如何，他不忘初心，就像那白杨树一样，傲然挺立在志成革命派的每一名战士的心中。</p><p>这天是周一在班会课上，yzc领袖获得了一次主讲的机会他慷慨激昂的发言中，一次又一次的揭露了二班这和谐美好的外衣下人心提惶的本质，一次又一次批判了xsy独揽全班各种权力进行独裁的政治方案，这是革命势力第一次在老师面前谈论xsy的君主专制。</p><p>z圣人醍醐灌顶，紧急宣布了一道圣旨：“yzc的话虽出自一己之言，但却引起众人支持，我决定撤销班长一职”全场响起了雷鸣般的响声。z圣人清了清嗓子，继续说：“xsy为太上皇班长，没有实权，yzc为太子班长,掌管班中大小事宜，试用期为一周。”班中火爆发出了震耳欲聋的掌声。“革命万岁！民主万岁！共产主义万岁”也在呐喊声中，11月革命胜利了，xsy的专制已成为历史，从此刻开始，二班的全新时代开启，太子班长yzc宣言：“中华名族共和班，中央人民政府成立啦”我一时失言，竟不知该说些什么来表达心中的无比喜说.我的大脑充斥着满满的胜利感。</p><p>但是，革命先行者，孙中山先生说过这样一句话“革命尚未成功，同志仍需努力。”</p><p>是啊！xsy下了台，但深受其思想的人可不一般。x的余部csa在晚自习公然宣布，他不同意《中华人民共和班晚自习约法》。y主席并没有恼怒因为党说过：“要团结一切可以团结的力量”我们坚信凭着共和制度的完善，我们一定可以感化这手握记律委员和语文课代表两大职位的csa同志，甚至去感化太上皇班长许xsy</p><p>最后，让我们由衷的祝愿yzc同志成功圆满渡过试用期，带着二班同学走上真正快乐幸福的好日子。</p><hr><p>这是cy老总于2020年11月23日20时44分在《QZONE》报刊上发表的一篇时事评论，记述了十一月革命的真实情况。由于太过激动，他将“11月”打成了“11日”。</p><p>其中部分人物地点信息已被修改。</p>]]></content>
+    <content type="html"><![CDATA[<p>11日革命zcy</p><p>2020年11月23日14时45分，建洪初二(2)班“蓄谋已久”的革命成功啦！此次革命的胜利离不开我们伟大的yzc领袖，y主席一直当着毫无实权的副班长;革命途中忍厚负重，卧薪尝胆。无论老师的态度如何，他不忘初心，就像那白杨树一样，傲然挺立在志成革命派的每一名战士的心中。</p><p>这天是周一在班会课上，yzc领袖获得了一次主讲的机会他慷慨激昂的发言中，一次又一次的揭露了二班这和谐美好的外衣下人心提惶的本质，一次又一次批判了xsy独揽全班各种权力进行独裁的政治方案，这是革命势力第一次在老师面前谈论xsy的君主专制。</p><p>z圣人醍醐灌顶，紧急宣布了一道圣旨：“yzc的话虽出自一己之言，但却引起众人支持，我决定撤销班长一职”全场响起了雷鸣般的响声。z圣人清了清嗓子，继续说：“xsy为太上皇班长，没有实权，yzc为太子班长,掌管班中大小事宜，试用期为一周。”班中火爆发出了震耳欲聋的掌声。“革命万岁！民主万岁！共产主义万岁”也在呐喊声中，11月革命胜利了，xsy的专制已成为历史，从此刻开始，二班的全新时代开启，太子班长yzc宣言：“中华名族共和班，中央人民政府成立啦”我一时失言，竟不知该说些什么来表达心中的无比喜说.我的大脑充斥着满满的胜利感。</p><p>但是，革命先行者，孙中山先生说过这样一句话“革命尚未成功，同志仍需努力。”</p><p>是啊！xsy下了台，但深受其思想的人可不一般。x的余部csa在晚自习公然宣布，他不同意《中华人民共和班晚自习约法》。y主席并没有恼怒因为党说过：“要团结一切可以团结的力量”我们坚信凭着共和制度的完善，我们一定可以感化这手握记律委员和语文课代表两大职位的csa同志，甚至去感化太上皇班长许xsy</p><p>最后，让我们由衷的祝愿yzc同志成功圆满渡过试用期，带着二班同学走上真正快乐幸福的好日子。</p><hr /><p>这是cy老总于2020年11月23日20时44分在《QZONE》报刊上发表的一篇时事评论，记述了十一月革命的真实情况。由于太过激动，他将“11月”打成了“11日”。</p><p>其中部分人物地点信息已被修改。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;11日革命&lt;br&gt;zcy&lt;/p&gt;
-&lt;p&gt;2020年11月23日14时45分，建洪初二(2)班“蓄谋已久”的革命成功啦！&lt;br&gt;此次革命的胜利离不开我们伟大的yzc领袖，y主席一直当着毫无实权的副班长;革命途中忍厚负重，卧薪尝胆。无论老师的态度如何，他不忘初心，就像那白杨树一</summary>
+    <summary type="html">&lt;p&gt;11日革命
+zcy&lt;/p&gt;
+&lt;p&gt;2020年11月23日14时45分，建洪初二(2)班“蓄谋已久”的革命成功啦！
+此次革命的胜利离不开我们伟大的yzc领袖，y主席一直当着毫无实权的副班长;革命途中忍厚负重，卧薪尝胆。无论老师的态度如何，他不忘初心，就像那白杨树一样，傲然挺立</summary>
       
     
     
@@ -122,7 +154,7 @@
     <published>2023-01-03T02:17:24.000Z</published>
     <updated>2023-01-03T02:36:06.774Z</updated>
     
-    <content type="html"><![CDATA[<p>荷花摇</p><p>佚名</p><p>荷花池里荷花摇，青蛙搂着蛤蟆腰。</p><p>以为他们在跳舞，其实他们在摔跤。</p><hr><p>这首打油诗是200X年建洪某学长所作，由魏大师口头传下来。本无题，诗题是编者加的。</p>]]></content>
+    <content type="html"><![CDATA[<p>荷花摇</p><p>佚名</p><p>荷花池里荷花摇，青蛙搂着蛤蟆腰。</p><p>以为他们在跳舞，其实他们在摔跤。</p><hr /><p>这首打油诗是200X年建洪某学长所作，由魏大师口头传下来。本无题，诗题是编者加的。</p>]]></content>
     
     
       
@@ -131,7 +163,7 @@
 &lt;p&gt;佚名&lt;/p&gt;
 &lt;p&gt;荷花池里荷花摇，青蛙搂着蛤蟆腰。&lt;/p&gt;
 &lt;p&gt;以为他们在跳舞，其实他们在摔跤。&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr /&gt;
 &lt;p&gt;这首打油诗是200X年建洪某学长所作，由魏大师口头传下来。本无题，诗题是编者加的。&lt;/p&gt;
 </summary>
       
@@ -154,7 +186,7 @@
     <published>2022-12-29T09:42:33.000Z</published>
     <updated>2023-07-19T13:47:54.388Z</updated>
     
-    <content type="html"><![CDATA[<p>班去者但五，余及今以知未来。</p><p>去者，阳也。阳者，山之南水之北也。危楼类山者，班二十八居焉，其临南者阳也；奚然，盖不正之道耳。</p><p>阳者，耳日相比。耳分左右，日行东西。既去之班皆就东西而弗中，东二南三，余以阴阳平衡之论，决东之一班之去也。</p><p>此余之拙见耳，愿与先生辨之。</p><hr><p>11月，疫情突然爆发，建洪的人们都回家上网课。12月，疫情有所好转，他们又回到了建洪，不料当天下午便有班级阳了，后来又走了四个班级。五个班级走后，巨伦与朋友们（文中的“先生”）晚自习时画出时局图，谈论下一个走的是哪个班。他趁此时走的班很少，写下《巨伦知未来书》，预测未来的局势。</p><p>巨伦提出的第一理论，竟推出了所有班级都会阳的结论，他说这大概是错误的理论。左思右想后，他又提出另一理论，得出一班会先走的结论。</p><p>本文被写下的第二天上午，又有几个班离去，却不含一班。当天下午，全年级第二次集体回家上网课，从第一次结束到第二次开始只经过了4天。</p><p>一班会先走的结论是错的，这似乎是巨伦的失败。然而正如被他视为“不正之道”的最开始的预测，最后确实所有班级都阳了，这倒是怪之奇的。</p>]]></content>
+    <content type="html"><![CDATA[<p>班去者但五，余及今以知未来。</p><p>去者，阳也。阳者，山之南水之北也。危楼类山者，班二十八居焉，其临南者阳也；奚然，盖不正之道耳。</p><p>阳者，耳日相比。耳分左右，日行东西。既去之班皆就东西而弗中，东二南三，余以阴阳平衡之论，决东之一班之去也。</p><p>此余之拙见耳，愿与先生辨之。</p><hr /><p>11月，疫情突然爆发，建洪的人们都回家上网课。12月，疫情有所好转，他们又回到了建洪，不料当天下午便有班级阳了，后来又走了四个班级。五个班级走后，巨伦与朋友们（文中的“先生”）晚自习时画出时局图，谈论下一个走的是哪个班。他趁此时走的班很少，写下《巨伦知未来书》，预测未来的局势。</p><p>巨伦提出的第一理论，竟推出了所有班级都会阳的结论，他说这大概是错误的理论。左思右想后，他又提出另一理论，得出一班会先走的结论。</p><p>本文被写下的第二天上午，又有几个班离去，却不含一班。当天下午，全年级第二次集体回家上网课，从第一次结束到第二次开始只经过了4天。</p><p>一班会先走的结论是错的，这似乎是巨伦的失败。然而正如被他视为“不正之道”的最开始的预测，最后确实所有班级都阳了，这倒是怪之奇的。</p>]]></content>
     
     
       
@@ -183,7 +215,7 @@
     <published>2022-08-23T07:28:35.000Z</published>
     <updated>2023-07-19T13:47:12.340Z</updated>
     
-    <content type="html"><![CDATA[<p>国际想象力翅膀数学奥林匹克竞赛，英文名：International Fancy(F**king) Mathematical Olympiad，简称IFMO。“想象力翅膀”的名称来源于国际知名教育家Barry Penhunt的名言：“给想象力插上翅膀”。21世纪上半叶，各国相继举办了各级各类的数学竞赛。随着竞赛的发展，IFMO这一世界最高层的想象力翅膀数学竞赛自然产生了。</p><h1 id="竞赛介绍"><a href="#竞赛介绍" class="headerlink" title="竞赛介绍"></a>竞赛介绍</h1><h2 id="时间"><a href="#时间" class="headerlink" title="时间"></a>时间</h2><p>不定期举办。</p><h2 id="主办"><a href="#主办" class="headerlink" title="主办"></a>主办</h2><p>民间。</p><h2 id="对象"><a href="#对象" class="headerlink" title="对象"></a>对象</h2><p>以人类为主。</p><h2 id="试题"><a href="#试题" class="headerlink" title="试题"></a>试题</h2><p>每次五道题。允许参赛者给想象力插上翅膀，使用各类知识解题，无标准答案，合理即可。</p><h2 id="考试"><a href="#考试" class="headerlink" title="考试"></a>考试</h2><p>每场考试持续150年，每年每天连续进行24小时，随时可以交卷离开考场（交卷前亦可随意进出考场），题目数量不定。若所有考生都已交卷，则考试提前结束。</p><h2 id="奖励"><a href="#奖励" class="headerlink" title="奖励"></a>奖励</h2><p>无。</p><h1 id="IFMOT"><a href="#IFMOT" class="headerlink" title="IFMOT"></a>IFMOT</h1><p>IFMO Traning，简称IFMOT，是为准备参加IFMO的选手服务的训练平台，以题库为主。</p>]]></content>
+    <content type="html"><![CDATA[<p>国际想象力翅膀数学奥林匹克竞赛，英文名：International Fancy(F**king) Mathematical Olympiad，简称IFMO。“想象力翅膀”的名称来源于国际知名教育家Barry Penhunt的名言：“给想象力插上翅膀”。21世纪上半叶，各国相继举办了各级各类的数学竞赛。随着竞赛的发展，IFMO这一世界最高层的想象力翅膀数学竞赛自然产生了。</p><h1 id="竞赛介绍"><a class="markdownIt-Anchor" href="#竞赛介绍"></a> 竞赛介绍</h1><h2 id="时间"><a class="markdownIt-Anchor" href="#时间"></a> 时间</h2><p>不定期举办。</p><h2 id="主办"><a class="markdownIt-Anchor" href="#主办"></a> 主办</h2><p>民间。</p><h2 id="对象"><a class="markdownIt-Anchor" href="#对象"></a> 对象</h2><p>以人类为主。</p><h2 id="试题"><a class="markdownIt-Anchor" href="#试题"></a> 试题</h2><p>每次五道题。允许参赛者给想象力插上翅膀，使用各类知识解题，无标准答案，合理即可。</p><h2 id="考试"><a class="markdownIt-Anchor" href="#考试"></a> 考试</h2><p>每场考试持续150年，每年每天连续进行24小时，随时可以交卷离开考场（交卷前亦可随意进出考场），题目数量不定。若所有考生都已交卷，则考试提前结束。</p><h2 id="奖励"><a class="markdownIt-Anchor" href="#奖励"></a> 奖励</h2><p>无。</p><h1 id="ifmot"><a class="markdownIt-Anchor" href="#ifmot"></a> IFMOT</h1><p>IFMO Traning，简称IFMOT，是为准备参加IFMO的选手服务的训练平台，以题库为主。</p>]]></content>
     
     
       
@@ -207,7 +239,7 @@
     <published>2022-07-01T08:09:42.000Z</published>
     <updated>2023-01-02T06:26:37.423Z</updated>
     
-    <content type="html"><![CDATA[<p>民困化学三秋，硕虎敩之。问：“子尝嗅氨否？” 对曰：“未尝。”</p><p>《巨伦化术》之言曰：“鸡卵所富，温之得氨。” 虎遂问：“盐水所驱，米粟所归，岂无氨乎？” 对曰：“专于米炊，弗嗅氨也。”</p><p>虎曰：“八十有四，曦月厝之，岂无氨乎？” 对曰：“彼时既去，弗嗅氨也。”</p><p>虎曰：“数男并寝，极乐之室，岂无氨乎？”对曰：“盖有道焉， 然不甚晓，欲三思之。”</p><p>既毕，诸弟子议氨。俘，修而不美者，曰：“去于卵白者，往于氨也。予以为戏雀拂稚……” 既而虎过，俘易邪以正，曰：“温鸡卵，何无臭哉？” 腐语云：“盖‘鸡卵臭’也。“ 虎笑，睨之。及虎去，尻曰：”卵白亦居乎男之所身，故男寝不无氨。“ 腐曰：”严共我亦念如是！“</p><p>诸弟子豁然达道，如若洞地九丈，清泉激迸，竟见天明。虎说，出其室，笑视之。悉怪之，历历亡。初，百许弟子填虎室，未尝稍降辞色。今大喜，盖就育人也。</p><p>巨伦曰：虎，化学家邪？不然，育人家也。既知正理，告其弟子以，劣师之道也。是弟子也，岳北江东，罔无不惑。然问以新，支支吾吾，但晓沿旧，不明革新。虎不厌之，告以至简，后三问之，故不言果。故虎之弟子者，善思、善究、善论、善议、善格物，乐于学，无论诵记。虎亦乐之，略无师生之怨。噫！此师生至善哉！微师类虎，国焉富强！</p><p>时十年四月廿五日。</p><hr><p><strong>一、解释加粗字</strong></p><p>盖有道<strong>焉</strong>；<strong>竟</strong>见天明；历历<strong>亡</strong>；<strong>盖</strong>就育人也；盖<strong>就</strong>育人也；虎不<strong>厌</strong>之；<strong>故</strong>不言果。</p><p><strong>二、翻译下列句子</strong></p><p>既知正理，告其弟子以，劣师之道也。是弟子也，岳北江东，罔无不惑。然问以新，支支吾吾，但晓沿旧，不明革新。虎不厌之，告以至简，后三问之，故不言果。</p><p><em>将上述问题的答案发送至邮箱<a href="mailto:&#97;&#x31;&#53;&#x38;&#x36;&#x34;&#x33;&#x35;&#x34;&#55;&#x37;&#x40;&#x31;&#54;&#x33;&#46;&#x63;&#x6f;&#109;">&#97;&#x31;&#53;&#x38;&#x36;&#x34;&#x33;&#x35;&#x34;&#55;&#x37;&#x40;&#x31;&#54;&#x33;&#46;&#x63;&#x6f;&#109;</a>，若正确率达到60%，将获得大奖：本文作者亲自查看你的邮件，并确认其中正确答案占了至少五分之三！</em></p>]]></content>
+    <content type="html"><![CDATA[<p>民困化学三秋，硕虎敩之。问：“子尝嗅氨否？” 对曰：“未尝。”</p><p>《巨伦化术》之言曰：“鸡卵所富，温之得氨。” 虎遂问：“盐水所驱，米粟所归，岂无氨乎？” 对曰：“专于米炊，弗嗅氨也。”</p><p>虎曰：“八十有四，曦月厝之，岂无氨乎？” 对曰：“彼时既去，弗嗅氨也。”</p><p>虎曰：“数男并寝，极乐之室，岂无氨乎？”对曰：“盖有道焉， 然不甚晓，欲三思之。”</p><p>既毕，诸弟子议氨。俘，修而不美者，曰：“去于卵白者，往于氨也。予以为戏雀拂稚……” 既而虎过，俘易邪以正，曰：“温鸡卵，何无臭哉？” 腐语云：“盖‘鸡卵臭’也。“ 虎笑，睨之。及虎去，尻曰：”卵白亦居乎男之所身，故男寝不无氨。“ 腐曰：”严共我亦念如是！“</p><p>诸弟子豁然达道，如若洞地九丈，清泉激迸，竟见天明。虎说，出其室，笑视之。悉怪之，历历亡。初，百许弟子填虎室，未尝稍降辞色。今大喜，盖就育人也。</p><p>巨伦曰：虎，化学家邪？不然，育人家也。既知正理，告其弟子以，劣师之道也。是弟子也，岳北江东，罔无不惑。然问以新，支支吾吾，但晓沿旧，不明革新。虎不厌之，告以至简，后三问之，故不言果。故虎之弟子者，善思、善究、善论、善议、善格物，乐于学，无论诵记。虎亦乐之，略无师生之怨。噫！此师生至善哉！微师类虎，国焉富强！</p><p>时十年四月廿五日。</p><hr /><p><strong>一、解释加粗字</strong></p><p>盖有道<strong>焉</strong>；<strong>竟</strong>见天明；历历<strong>亡</strong>；<strong>盖</strong>就育人也；盖<strong>就</strong>育人也；虎不<strong>厌</strong>之；<strong>故</strong>不言果。</p><p><strong>二、翻译下列句子</strong></p><p>既知正理，告其弟子以，劣师之道也。是弟子也，岳北江东，罔无不惑。然问以新，支支吾吾，但晓沿旧，不明革新。虎不厌之，告以至简，后三问之，故不言果。</p><p><em>将上述问题的答案发送至邮箱a1586435477@163.com，若正确率达到60%，将获得大奖：本文作者亲自查看你的邮件，并确认其中正确答案占了至少五分之三！</em></p>]]></content>
     
     
       
@@ -284,9 +316,9 @@
     <category term="建洪集" scheme="http://example.com/categories/%E5%BB%BA%E6%B4%AA%E9%9B%86/"/>
     
     
-    <category term="诗" scheme="http://example.com/tags/%E8%AF%97/"/>
-    
     <category term="pH试纸" scheme="http://example.com/tags/pH%E8%AF%95%E7%BA%B8/"/>
+    
+    <category term="诗" scheme="http://example.com/tags/%E8%AF%97/"/>
     
   </entry>
   
